@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm finishing my engineering and master's degree in Artificial Intelligence.<br>My experience spans NLP, deep learning, quantum algorithms, and quantum machine learning.<br>Lately, I’ve been exploring neuro-symbolic AI, physics-informed neural networks (PINNs), and advanced deep learning approaches.
+👋 Hi there! I'm finishing my engineering and master's degree in Artificial Intelligence.<br>My experience spans RL, NLP, deep learning, and quantum machine learning.<br>Lately, I’ve been exploring neuro-symbolic AI, long-horizon RL, and advanced deep learning approaches.
 
 
 ## 🌐 Socials:
